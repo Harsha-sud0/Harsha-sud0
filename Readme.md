@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python,DevSecOps**
 
-- 👯 I’m looking to collaborate on **pen-testing**
+- 👯 I’m looking to collaborate on **pen-testing and DevSecOps**
 
 - 💬 Ask me about **Cybersecurity**
 
