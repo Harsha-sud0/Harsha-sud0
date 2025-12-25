@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Pentera (Automated Security Validation)**
 
-- 🌱 I’m currently learning **Python,DevSecOps**
+- 🌱 I’m currently learning **DevSecOps**
 
 - 👯 I’m looking to collaborate on **pen-testing**
 
